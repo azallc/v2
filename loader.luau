@@ -2,7 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local BASE = "https://your-domain.example/scripts/"
+local BASE = "https://github.com/azallc/v2/tree/main/games"
 
 local places = {
     [101558013317432] = "slash-per-click.luau",
